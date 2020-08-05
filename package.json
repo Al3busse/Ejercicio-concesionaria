@@ -1,0 +1,15 @@
+{
+  "name": "onready",
+  "version": "1.0.0",
+  "description": "Ejercicio para OnReady",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "al3busse",
+  "license": "ISC",
+  "dependencies": {},
+  "engines": {
+    "node": "^14.7.0"
+  }
+}
